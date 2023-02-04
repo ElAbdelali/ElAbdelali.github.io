@@ -344,3 +344,32 @@ img{
     max-width: 75%;
     max-height: 75%
 }
+
+/* Contact Section */
+.contact-dec h2{
+  font-size: 28px;
+  color: #FFF;
+  font-weight: 600;
+  padding: 15px 0;
+}
+.contact-sec p{
+  color: #FFF;
+  font-size: 18px;
+  padding: 16px 0 24px;
+}
+#contact{
+  width: 100%;
+  background-color: rgba(127, 182, 146, 0.9);
+}
+section#contact div.container{
+  padding: 5%;
+
+}
+#contact .btn-primary{
+  background-color: #648880;
+  border: 1px solid #648880;
+}
+#contact .btn-primary:hover{
+  background-color: #648881;
+}
+
